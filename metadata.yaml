@@ -1,0 +1,42 @@
+_repo: Plays-by-Anton-Chekhov-Second-Series_7986
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: West, Julius
+    birthdate: 1891
+    deathdate: 1918
+    gutenberg_agent_id: '4813'
+    url: http://www.gutenberg.org/2009/agents/4813
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Chekov, Anton Pavlovich
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    - Чехов, Антон Павлович
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian drama -- Translations into English'
+- !lcsh 'Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: On the high road -- The proposal -- The wedding -- The bear -- A
+  tragedian in spite of himself -- The anniversary -- The three sisters -- The cherry
+  orchard.
+title: Plays by Anton Chekhov, Second Series
+url: http://www.gutenberg.org/ebooks/7986
