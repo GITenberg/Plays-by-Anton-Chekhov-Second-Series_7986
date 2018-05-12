@@ -1,5 +1,5 @@
 _repo: Plays-by-Anton-Chekhov-Second-Series_7986
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: West, Julius
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1918
     gutenberg_agent_id: '4813'
     url: http://www.gutenberg.org/2009/agents/4813
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7986#Plays-by-Anton-Chekhov-Second-Series
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
